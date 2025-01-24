@@ -1,0 +1,14 @@
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\bin\Debug\net8.0\LicaoBecrowd2374.exe
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\bin\Debug\net8.0\LicaoBecrowd2374.deps.json
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\bin\Debug\net8.0\LicaoBecrowd2374.runtimeconfig.json
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\bin\Debug\net8.0\LicaoBecrowd2374.dll
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\bin\Debug\net8.0\LicaoBecrowd2374.pdb
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\obj\Debug\net8.0\LicaoBecrowd2374.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\obj\Debug\net8.0\LicaoBecrowd2374.AssemblyInfoInputs.cache
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\obj\Debug\net8.0\LicaoBecrowd2374.AssemblyInfo.cs
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\obj\Debug\net8.0\LicaoBecrowd2374.csproj.CoreCompileInputs.cache
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\obj\Debug\net8.0\LicaoBecrowd2374.dll
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\obj\Debug\net8.0\refint\LicaoBecrowd2374.dll
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\obj\Debug\net8.0\LicaoBecrowd2374.pdb
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\obj\Debug\net8.0\LicaoBecrowd2374.genruntimeconfig.cache
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicaoBecrowd2374\obj\Debug\net8.0\ref\LicaoBecrowd2374.dll

@@ -1,0 +1,14 @@
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\bin\Debug\net8.0\LicoesBcrowd1014.exe
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\bin\Debug\net8.0\LicoesBcrowd1014.deps.json
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\bin\Debug\net8.0\LicoesBcrowd1014.runtimeconfig.json
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\bin\Debug\net8.0\LicoesBcrowd1014.dll
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\bin\Debug\net8.0\LicoesBcrowd1014.pdb
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\obj\Debug\net8.0\LicoesBcrowd1014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\obj\Debug\net8.0\LicoesBcrowd1014.AssemblyInfoInputs.cache
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\obj\Debug\net8.0\LicoesBcrowd1014.AssemblyInfo.cs
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\obj\Debug\net8.0\LicoesBcrowd1014.csproj.CoreCompileInputs.cache
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\obj\Debug\net8.0\LicoesBcrowd1014.dll
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\obj\Debug\net8.0\refint\LicoesBcrowd1014.dll
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\obj\Debug\net8.0\LicoesBcrowd1014.pdb
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\obj\Debug\net8.0\LicoesBcrowd1014.genruntimeconfig.cache
+C:\Users\hferr\source\repos\LicoesBcrowd1014\LicoesBcrowd1014\obj\Debug\net8.0\ref\LicoesBcrowd1014.dll
