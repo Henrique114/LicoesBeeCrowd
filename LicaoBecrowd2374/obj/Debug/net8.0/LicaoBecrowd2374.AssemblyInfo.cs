@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LicaoBecrowd2374")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+206c9904cb11c152598ad334355099e34eb05483")]
 [assembly: System.Reflection.AssemblyProductAttribute("LicaoBecrowd2374")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LicaoBecrowd2374")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
