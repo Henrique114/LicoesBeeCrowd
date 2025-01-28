@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmos", "LicoesBcrowd1014\Algoritmos.csproj", "{6369AA8A-D5DB-4150-9ACB-DD734ABEA30F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6369AA8A-D5DB-4150-9ACB-DD734ABEA30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6369AA8A-D5DB-4150-9ACB-DD734ABEA30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6369AA8A-D5DB-4150-9ACB-DD734ABEA30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6369AA8A-D5DB-4150-9ACB-DD734ABEA30F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
