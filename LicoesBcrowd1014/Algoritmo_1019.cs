@@ -1,6 +1,9 @@
-﻿namespace Algoritmos
+﻿using System;
+
+namespace Algoritmos
 {
-    public class Algoritmo1023 : IBaseAlgoritmo
+
+    public class Algoritmo_1019 : IBaseAlgoritmo
     {
         public void Executar()
         {
@@ -22,6 +25,8 @@
             var segundos = tempoCompleto.Seconds;
 
             Console.WriteLine($"{horas}:{minutos}:{segundos}");
+
+
 
         }
     }

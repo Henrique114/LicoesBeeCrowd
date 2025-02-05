@@ -6,6 +6,10 @@
         {
             var algoritmo = new Algoritmo1023();
             algoritmo.Executar();
+
+            Console.WriteLine("Finalizado.");
+            Console.Read();
+              
         }
     }
 }
