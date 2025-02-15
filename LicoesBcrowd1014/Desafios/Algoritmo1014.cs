@@ -1,16 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using LicoesBeeCrowd.Algoritmos.Interfaces;
 
-namespace Algoritmos
+namespace LicoesBeeCrowd.Algoritmos.Desafios
 {
     public class Algoritmo1014 : IBaseAlgoritmo
     {
         public void Executar()
         {
-            var distanciaPercorrida = Int32.Parse(Console.ReadLine());
+            var distanciaPercorrida = int.Parse(Console.ReadLine());
             var litrosGastos = float.Parse(Console.ReadLine());
 
             var consumo = distanciaPercorrida / litrosGastos;

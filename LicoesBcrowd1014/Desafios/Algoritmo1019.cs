@@ -1,13 +1,16 @@
-﻿namespace Algoritmos
+﻿using LicoesBeeCrowd.Algoritmos.Interfaces;
+
+namespace LicoesBeeCrowd.Algoritmos.Desafios
 {
-    public class Algoritmo1023 : IBaseAlgoritmo
+
+    public class Algoritmo1019 : IBaseAlgoritmo
     {
         public void Executar()
         {
             // Transfornar a duração de tempo de segundos para o formato hh:mm:ss.
 
             //variavel que guarda o tempo em segundos.
-            var tempoEmSegundos = int.TryParse(Console.ReadLine());
+            int.TryParse(Console.ReadLine(), out int tempoEmSegundos);
 
             //formatação do tempo em hh:mm:ss com TimeSpan
             var tempoCompleto = TimeSpan.FromSeconds(tempoEmSegundos);
@@ -16,12 +19,14 @@
             var horas = tempoCompleto.Hours;
 
             //variavwl para minutos.
-            var minutos = tempoCompleto.Munutes;
+            var minutos = tempoCompleto.Minutes;
 
             //variavwl para segundos.
             var segundos = tempoCompleto.Seconds;
 
             Console.WriteLine($"{horas}:{minutos}:{segundos}");
+
+
 
         }
     }

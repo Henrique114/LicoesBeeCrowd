@@ -1,4 +1,4 @@
-﻿namespace Algoritmos
+﻿namespace LicoesBeeCrowd.Algoritmos.Interfaces
 {
     public interface IBaseAlgoritmo
     {

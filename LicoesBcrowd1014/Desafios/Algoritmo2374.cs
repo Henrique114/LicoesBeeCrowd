@@ -1,4 +1,6 @@
-﻿namespace Algoritmos
+﻿using LicoesBeeCrowd.Algoritmos.Interfaces;
+
+namespace LicoesBeeCrowd.Algoritmos.Desafios
 {
     internal class Algoritmo2374 : IBaseAlgoritmo
     {
