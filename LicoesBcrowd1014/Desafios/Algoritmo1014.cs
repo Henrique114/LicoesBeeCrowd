@@ -6,8 +6,8 @@ namespace LicoesBeeCrowd.Algoritmos.Desafios
     {
         public void Executar()
         {
-            var distanciaPercorrida = int.Parse(Console.ReadLine());
-            var litrosGastos = float.Parse(Console.ReadLine());
+            int.TryParse(Console.ReadLine(), out int distanciaPercorrida);
+            float.TryParse(Console.ReadLine(), out float litrosGastos);
 
             var consumo = distanciaPercorrida / litrosGastos;
 

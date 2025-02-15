@@ -17,7 +17,7 @@ namespace LicoesBeeCrowd.Algoritmos.Desafios
              * um espaço depois da igualdade. O valor deverá ser 
              * apresentado com 3 casas após o ponto.*/
 
-            var raio = float.Parse(Console.ReadLine());
+            float.TryParse(Console.ReadLine(), out float raio);
 
             var volumeDaEsfera = 4.0 / 3 * Math.Round(Math.PI, 5) * Math.Pow(raio, 3);
 
